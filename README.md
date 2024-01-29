@@ -94,15 +94,6 @@ I mistakenly just stacked both charts for male and female sales per occupation o
 **`walmart_datagh.ipynb`** 
     - Code and notes
 
-
-## Takeaways 
-
-1/11/2024: I'm glad to have started this project. So far, I've become more comfortable with Python than I was, have come to really enjoy Jupyter Notebook, honed in on documentation skills, and above all learned what goes into creating meaningful visualizations of data. I know have Matplotlib and Pandas in my toolbox for the future.
-
-## Next Steps
-- During my research, I discovered that machine learning can be implemented in data analysis and visualization. I'd like to explore that further!
-- I'd like to also explore creating and compiling my own datasets.
-
 ## Links That Were of Help
 - For help importing images
     - https://stackoverflow.com/questions/58862684/can-not-render-images-in-ipynb-files-on-vscode
